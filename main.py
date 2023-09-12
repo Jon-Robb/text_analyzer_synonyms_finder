@@ -79,7 +79,7 @@ class App:
 
                 self.ta.stopwords = self.ta.pull_text_stopwords(
 
-                    "..\Docs\stop_words.txt", "utf-8"
+                    ".\stop_words.txt", "utf-8"
                 ).split()
 
                 self.search_synonyms()
