@@ -1,0 +1,5 @@
+Entrez un mot, le nombre de synonymes que vous voulez et la méthode de calcul, i.e. produit scalaire: 0, least-squares: 1, city-block: 2
+
+Tapez q pour quitter.
+
+Sélection : 
