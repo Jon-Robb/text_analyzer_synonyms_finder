@@ -1,5 +1,5 @@
-### This project was init from a team's project made with [Cryptoblivious](https://github.com/cryptoblivious)
-<br>
+#### This project was init from a team's project made with [Cryptoblivious](https://github.com/cryptoblivious)
+<br><br><br>
 # Guide d'utilisation du programme d'analyse de texte
 
 Ce programme d'analyse de textes offre plusieurs fonctionnalités, notamment le clustering par centroïdes, la recherche de synonymes et la génération d'une base de données de synonymes.
